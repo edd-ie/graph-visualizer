@@ -4,60 +4,218 @@
     "course": "Math 3343",
     "project": "Final Project - Fredericton Transit Graph"
   },
-  "routes":[
-    {"id": 110, "label": "110 Forest Hill"},
-    {"id": 120, "label": "120 Brookside / Windsor"},
-    {"id": 130, "label": "130 Woodstock / Smythe"},
-    {"id": 140, "label": "140 River Run"},
-    {"id": 150, "label": "150 York / Hanwell"},
-    {"id": 160, "label": "160 Skyline / Southwood Park"},
-    {"id": 200, "label": "200 Crosstown"}
+  "routes": [
+    {
+      "id": 110,
+      "label": "110 Forest Hill"
+    },
+    {
+      "id": 120,
+      "label": "120 Brookside / Windsor"
+    },
+    {
+      "id": 130,
+      "label": "130 Woodstock / Smythe"
+    },
+    {
+      "id": 140,
+      "label": "140 River Run"
+    },
+    {
+      "id": 150,
+      "label": "150 York / Hanwell"
+    },
+    {
+      "id": 160,
+      "label": "160 Skyline / Southwood Park"
+    },
+    {
+      "id": 200,
+      "label": "200 Crosstown"
+    }
   ],
   "nodes": [
-    { "id": "KP", "label": "King's Place", "note":"Combined with Kings Place Arr." },
-    { "id": "DC", "label": "Dunns Crossing" },
-    { "id": "FH", "label": "Forest Hill / Biggs" },
-    { "id": "WM", "label": "Windsor / Montgomery"},
-    { "id": "RM", "label": "Regent Mall", "note": "Combined with Regent Mall Arr." },
-    { "id": "CC", "label": "Corbett Centre", "note": "Combined with Corbett Centre Arr." },
-    { "id": "CBC", "label": "CBC Canada"},
-    { "id": "KL", "label": "Killarney Lake Lodge", "note":"Combined with Killarney Lake Lodge Arr."},
-    { "id": "TB", "label": "Terrance / Brookside"},
-    { "id": "WC", "label": "Windsor Court"},
-    { "id": "NP", "label": "Nashwaaksis Place"},
-    { "id": "MS", "label": "Maple / Saint Mary's"},
-    { "id": "CG", "label": "Canada / Gilbert"},
-    { "id": "PC", "label": "Perley / Canada", "note":"Combined with Perley / Canada Arr."},
-    { "id": "WH", "label": "Woodstock / Hanwell"},
-    { "id": "SS", "label": "Superstore"},
-    { "id": "GP", "label": "Greenfields / Prospect"},
-    { "id": "UP", "label": "Uptown Ctr - Prospect"},
-    { "id": "CCL", "label": "Carlisle / Clements"},
-    { "id": "YCC", "label": "York Care Centre"},
-    { "id": "CH", "label": "Charles"},
-    { "id": "GB", "label": "Greenwood / Barkers Pt Bypass"},
-    { "id": "RR", "label": "Rte 105 @ Ramada"},
-    { "id": "HW", "label": "Hazelwood"},
-    { "id": "RS", "label": "Riverside / Sumac"},
-    { "id": "CU", "label": "Cliffe / Union"},
-    { "id": "YP", "label": "York / Priestman" },
-    { "id": "SP", "label": "Smythe / Prospect" },
-    { "id": "PP", "label": "Prospect / Patience"},
-    { "id": "EH", "label": "Evergreen / Hedgeview"},
-    { "id": "KW", "label": "Kingwood"},
-    { "id": "YM", "label": "York / Montgomery"},
-    { "id": "YCG", "label": "York / Connaught"},
-    { "id": "YV", "label": "York / Victoria"},
-    { "id": "YCH", "label": "York / Charlotte"},
-    { "id": "SUB", "label": "UNB (SUB)" },
-    { "id": "HS", "label": "Hospital" },
-    { "id": "LH", "label": "Leo Hayes HS" },
-    { "id": "SW", "label": "Smartcentres (Walmart)"},
-    { "id": "RB", "label": "Regent / Beaverbrook"},
-    { "id": "FC", "label": "Forest Hill / Canterbury"},
-    { "id": "CK", "label": "Canterbury / Kimble"},
-    { "id": "KA", "label": "Knowledge Park / Alison"},
-    { "id": "WL", "label": "Wilsey / Lincoln"}
+    {
+      "id": "KP",
+      "label": "King's Place",
+      "note": "Combined with Kings Place Arr."
+    },
+    {
+      "id": "DC",
+      "label": "Dunns Crossing"
+    },
+    {
+      "id": "FH",
+      "label": "Forest Hill / Biggs"
+    },
+    {
+      "id": "WM",
+      "label": "Windsor / Montgomery"
+    },
+    {
+      "id": "RM",
+      "label": "Regent Mall",
+      "note": "Combined with Regent Mall Arr."
+    },
+    {
+      "id": "CC",
+      "label": "Corbett Centre",
+      "note": "Combined with Corbett Centre Arr."
+    },
+    {
+      "id": "CBC",
+      "label": "CBC Canada"
+    },
+    {
+      "id": "KL",
+      "label": "Killarney Lake Lodge",
+      "note": "Combined with Killarney Lake Lodge Arr."
+    },
+    {
+      "id": "TB",
+      "label": "Terrance / Brookside"
+    },
+    {
+      "id": "WC",
+      "label": "Windsor Court"
+    },
+    {
+      "id": "NP",
+      "label": "Nashwaaksis Place"
+    },
+    {
+      "id": "MS",
+      "label": "Maple / Saint Mary's"
+    },
+    {
+      "id": "CG",
+      "label": "Canada / Gilbert"
+    },
+    {
+      "id": "PC",
+      "label": "Perley / Canada",
+      "note": "Combined with Perley / Canada Arr."
+    },
+    {
+      "id": "WH",
+      "label": "Woodstock / Hanwell"
+    },
+    {
+      "id": "SS",
+      "label": "Superstore"
+    },
+    {
+      "id": "GP",
+      "label": "Greenfields / Prospect"
+    },
+    {
+      "id": "UP",
+      "label": "Uptown Ctr - Prospect"
+    },
+    {
+      "id": "CCL",
+      "label": "Carlisle / Clements"
+    },
+    {
+      "id": "YCC",
+      "label": "York Care Centre"
+    },
+    {
+      "id": "CH",
+      "label": "Charles"
+    },
+    {
+      "id": "GB",
+      "label": "Greenwood / Barkers Pt Bypass"
+    },
+    {
+      "id": "RR",
+      "label": "Rte 105 @ Ramada"
+    },
+    {
+      "id": "HW",
+      "label": "Hazelwood"
+    },
+    {
+      "id": "RS",
+      "label": "Riverside / Sumac"
+    },
+    {
+      "id": "CU",
+      "label": "Cliffe / Union"
+    },
+    {
+      "id": "YP",
+      "label": "York / Priestman"
+    },
+    {
+      "id": "SP",
+      "label": "Smythe / Prospect"
+    },
+    {
+      "id": "PP",
+      "label": "Prospect / Patience"
+    },
+    {
+      "id": "EH",
+      "label": "Evergreen / Hedgeview"
+    },
+    {
+      "id": "KW",
+      "label": "Kingwood"
+    },
+    {
+      "id": "YM",
+      "label": "York / Montgomery"
+    },
+    {
+      "id": "YCG",
+      "label": "York / Connaught"
+    },
+    {
+      "id": "YV",
+      "label": "York / Victoria"
+    },
+    {
+      "id": "YCH",
+      "label": "York / Charlotte"
+    },
+    {
+      "id": "SUB",
+      "label": "UNB (SUB)"
+    },
+    {
+      "id": "HS",
+      "label": "Hospital"
+    },
+    {
+      "id": "LH",
+      "label": "Leo Hayes HS"
+    },
+    {
+      "id": "SW",
+      "label": "Smartcentres (Walmart)"
+    },
+    {
+      "id": "RB",
+      "label": "Regent / Beaverbrook"
+    },
+    {
+      "id": "FC",
+      "label": "Forest Hill / Canterbury"
+    },
+    {
+      "id": "CK",
+      "label": "Canterbury / Kimble"
+    },
+    {
+      "id": "KA",
+      "label": "Knowledge Park / Alison"
+    },
+    {
+      "id": "WL",
+      "label": "Wilsey / Lincoln"
+    }
   ],
   "edges": [
     {
@@ -378,9 +536,5 @@
       "weight": 2,
       "route": 200
     }
-  ],
-  "subgraphs": {
-    "yellow_line_menger": ["KP", "DC", "FH", "RM", "CC"],
-    "note": "Used for Menger's Theorem analysis between King's Place and other Yellow line vertices."
-  }
+  ]
 }

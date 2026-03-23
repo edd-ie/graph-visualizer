@@ -1,3 +1,6 @@
+import data from "../db/graph.json" with { type: "json" };
+import fs from 'fs';
+
 const normalizeGraphData = (rawData) => {
     const nodes = rawData.nodes.map(node => ({
         ...node,
@@ -57,3 +60,30 @@ const normalizeGraphData = (rawData) => {
 
     return { nodes, links };
 };
+
+export default normalizeGraphData;
+
+const normalized = normalizeGraphData(data);
+
+// To iterate over nodes:
+normalized.nodes.forEach(n => {
+    console.log(`Node: ${n.id}, Degree: ${n.degree}`);
+});
+
+// To iterate over links:
+normalized.links.forEach(l => {
+    console.log(`Edge: ${l.source} - ${l.target}, Weight: ${l.weight}`);
+});
+
+
+// Write to a new JSON file
+try {
+    fs.writeFileSync(
+        './src/db/normalized_graph.json',
+        JSON.stringify(normalized, null, 2),
+        'utf-8'
+    );
+    console.log("Success: normalized_graph.json has been saved.");
+} catch (err) {
+    console.error("Error writing file:", err);
+}

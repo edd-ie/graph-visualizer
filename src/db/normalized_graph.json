@@ -1,0 +1,722 @@
+{
+  "nodes": [
+    {
+      "id": "KP",
+      "label": "King's Place",
+      "note": "Combined with Kings Place Arr.",
+      "x": null,
+      "y": null,
+      "degree": 7
+    },
+    {
+      "id": "DC",
+      "label": "Dunns Crossing",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "FH",
+      "label": "Forest Hill / Biggs",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "WM",
+      "label": "Windsor / Montgomery",
+      "x": null,
+      "y": null,
+      "degree": 3
+    },
+    {
+      "id": "RM",
+      "label": "Regent Mall",
+      "note": "Combined with Regent Mall Arr.",
+      "x": null,
+      "y": null,
+      "degree": 5
+    },
+    {
+      "id": "CC",
+      "label": "Corbett Centre",
+      "note": "Combined with Corbett Centre Arr.",
+      "x": null,
+      "y": null,
+      "degree": 4
+    },
+    {
+      "id": "CBC",
+      "label": "CBC Canada",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "KL",
+      "label": "Killarney Lake Lodge",
+      "note": "Combined with Killarney Lake Lodge Arr.",
+      "x": null,
+      "y": null,
+      "degree": 1
+    },
+    {
+      "id": "TB",
+      "label": "Terrance / Brookside",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "WC",
+      "label": "Windsor Court",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "NP",
+      "label": "Nashwaaksis Place",
+      "x": null,
+      "y": null,
+      "degree": 3
+    },
+    {
+      "id": "MS",
+      "label": "Maple / Saint Mary's",
+      "x": null,
+      "y": null,
+      "degree": 6
+    },
+    {
+      "id": "CG",
+      "label": "Canada / Gilbert",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "PC",
+      "label": "Perley / Canada",
+      "note": "Combined with Perley / Canada Arr.",
+      "x": null,
+      "y": null,
+      "degree": 1
+    },
+    {
+      "id": "WH",
+      "label": "Woodstock / Hanwell",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "SS",
+      "label": "Superstore",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "GP",
+      "label": "Greenfields / Prospect",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "UP",
+      "label": "Uptown Ctr - Prospect",
+      "x": null,
+      "y": null,
+      "degree": 3
+    },
+    {
+      "id": "CCL",
+      "label": "Carlisle / Clements",
+      "x": null,
+      "y": null,
+      "degree": 1
+    },
+    {
+      "id": "YCC",
+      "label": "York Care Centre",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "CH",
+      "label": "Charles",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "GB",
+      "label": "Greenwood / Barkers Pt Bypass",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "RR",
+      "label": "Rte 105 @ Ramada",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "HW",
+      "label": "Hazelwood",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "RS",
+      "label": "Riverside / Sumac",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "CU",
+      "label": "Cliffe / Union",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "YP",
+      "label": "York / Priestman",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "SP",
+      "label": "Smythe / Prospect",
+      "x": null,
+      "y": null,
+      "degree": 0
+    },
+    {
+      "id": "PP",
+      "label": "Prospect / Patience",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "EH",
+      "label": "Evergreen / Hedgeview",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "KW",
+      "label": "Kingwood",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "YM",
+      "label": "York / Montgomery",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "YCG",
+      "label": "York / Connaught",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "YV",
+      "label": "York / Victoria",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "YCH",
+      "label": "York / Charlotte",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "SUB",
+      "label": "UNB (SUB)",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "HS",
+      "label": "Hospital",
+      "x": null,
+      "y": null,
+      "degree": 3
+    },
+    {
+      "id": "LH",
+      "label": "Leo Hayes HS",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "SW",
+      "label": "Smartcentres (Walmart)",
+      "x": null,
+      "y": null,
+      "degree": 1
+    },
+    {
+      "id": "RB",
+      "label": "Regent / Beaverbrook",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "FC",
+      "label": "Forest Hill / Canterbury",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "CK",
+      "label": "Canterbury / Kimble",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "KA",
+      "label": "Knowledge Park / Alison",
+      "x": null,
+      "y": null,
+      "degree": 2
+    },
+    {
+      "id": "WL",
+      "label": "Wilsey / Lincoln",
+      "x": null,
+      "y": null,
+      "degree": 2
+    }
+  ],
+  "links": [
+    {
+      "source": "DC",
+      "target": "KP",
+      "weight": 5,
+      "routes": [
+        110
+      ]
+    },
+    {
+      "source": "DC",
+      "target": "FH",
+      "weight": 2,
+      "routes": [
+        110
+      ]
+    },
+    {
+      "source": "FH",
+      "target": "WM",
+      "weight": 5,
+      "routes": [
+        110
+      ]
+    },
+    {
+      "source": "RM",
+      "target": "WM",
+      "weight": 13,
+      "routes": [
+        110
+      ]
+    },
+    {
+      "source": "CC",
+      "target": "RM",
+      "weight": 2,
+      "routes": [
+        110,
+        200
+      ]
+    },
+    {
+      "source": "CBC",
+      "target": "CC",
+      "weight": 4,
+      "routes": [
+        110
+      ]
+    },
+    {
+      "source": "CBC",
+      "target": "WM",
+      "weight": 2,
+      "routes": [
+        110
+      ]
+    },
+    {
+      "source": "KL",
+      "target": "TB",
+      "weight": 4,
+      "routes": [
+        120
+      ]
+    },
+    {
+      "source": "TB",
+      "target": "WC",
+      "weight": 6,
+      "routes": [
+        120
+      ]
+    },
+    {
+      "source": "NP",
+      "target": "WC",
+      "weight": 5,
+      "routes": [
+        120
+      ]
+    },
+    {
+      "source": "MS",
+      "target": "NP",
+      "weight": 7,
+      "routes": [
+        120,
+        140
+      ]
+    },
+    {
+      "source": "CG",
+      "target": "MS",
+      "weight": 8,
+      "routes": [
+        120
+      ]
+    },
+    {
+      "source": "CG",
+      "target": "PC",
+      "weight": 10,
+      "routes": [
+        120
+      ]
+    },
+    {
+      "source": "KP",
+      "target": "WH",
+      "weight": 5,
+      "routes": [
+        130
+      ]
+    },
+    {
+      "source": "SS",
+      "target": "WH",
+      "weight": 4,
+      "routes": [
+        130
+      ]
+    },
+    {
+      "source": "GP",
+      "target": "SS",
+      "weight": 3,
+      "routes": [
+        130
+      ]
+    },
+    {
+      "source": "GP",
+      "target": "UP",
+      "weight": 12,
+      "routes": [
+        130
+      ]
+    },
+    {
+      "source": "RM",
+      "target": "UP",
+      "weight": 3,
+      "routes": [
+        130,
+        150
+      ]
+    },
+    {
+      "source": "CCL",
+      "target": "YCC",
+      "weight": 4,
+      "routes": [
+        140
+      ]
+    },
+    {
+      "source": "NP",
+      "target": "YCC",
+      "weight": 6,
+      "routes": [
+        140
+      ]
+    },
+    {
+      "source": "CH",
+      "target": "MS",
+      "weight": 11,
+      "routes": [
+        140
+      ]
+    },
+    {
+      "source": "CH",
+      "target": "GB",
+      "weight": 3,
+      "routes": [
+        140
+      ]
+    },
+    {
+      "source": "GB",
+      "target": "RR",
+      "weight": 7,
+      "routes": [
+        140
+      ]
+    },
+    {
+      "source": "HW",
+      "target": "RR",
+      "weight": 3,
+      "routes": [
+        140
+      ]
+    },
+    {
+      "source": "HW",
+      "target": "RS",
+      "weight": 4,
+      "routes": [
+        140
+      ]
+    },
+    {
+      "source": "CU",
+      "target": "RS",
+      "weight": 6,
+      "routes": [
+        140
+      ]
+    },
+    {
+      "source": "CU",
+      "target": "MS",
+      "weight": 15,
+      "routes": [
+        140
+      ]
+    },
+    {
+      "source": "KP",
+      "target": "YP",
+      "weight": 8,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "PP",
+      "target": "YP",
+      "weight": 6,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "EH",
+      "target": "PP",
+      "weight": 5,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "EH",
+      "target": "KW",
+      "weight": 4,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "KW",
+      "target": "UP",
+      "weight": 11,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "RM",
+      "target": "YM",
+      "weight": 5,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "YCG",
+      "target": "YM",
+      "weight": 1,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "YCG",
+      "target": "YV",
+      "weight": 1,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "YCH",
+      "target": "YV",
+      "weight": 1,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "KP",
+      "target": "YCH",
+      "weight": 1,
+      "routes": [
+        150
+      ]
+    },
+    {
+      "source": "KP",
+      "target": "RB",
+      "weight": 4,
+      "routes": [
+        160
+      ]
+    },
+    {
+      "source": "RB",
+      "target": "WL",
+      "weight": 2,
+      "routes": [
+        160
+      ]
+    },
+    {
+      "source": "FC",
+      "target": "WL",
+      "weight": 4,
+      "routes": [
+        160
+      ]
+    },
+    {
+      "source": "CK",
+      "target": "FC",
+      "weight": 3,
+      "routes": [
+        160
+      ]
+    },
+    {
+      "source": "CK",
+      "target": "KA",
+      "weight": 2,
+      "routes": [
+        160
+      ]
+    },
+    {
+      "source": "CC",
+      "target": "KA",
+      "weight": 4,
+      "routes": [
+        160
+      ]
+    },
+    {
+      "source": "CC",
+      "target": "HS",
+      "weight": 6,
+      "routes": [
+        200
+      ]
+    },
+    {
+      "source": "HS",
+      "target": "SUB",
+      "weight": 6,
+      "routes": [
+        200
+      ]
+    },
+    {
+      "source": "KP",
+      "target": "SUB",
+      "weight": 6,
+      "routes": [
+        200
+      ]
+    },
+    {
+      "source": "KP",
+      "target": "MS",
+      "weight": 4,
+      "routes": [
+        200
+      ]
+    },
+    {
+      "source": "LH",
+      "target": "MS",
+      "weight": 2,
+      "routes": [
+        200
+      ]
+    },
+    {
+      "source": "LH",
+      "target": "SW",
+      "weight": 2,
+      "routes": [
+        200
+      ]
+    },
+    {
+      "source": "HS",
+      "target": "RM",
+      "weight": 10,
+      "routes": [
+        200
+      ]
+    }
+  ]
+}
